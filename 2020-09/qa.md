@@ -43,11 +43,6 @@
 > * small
 
 
-
-## [css] CSS3有哪些新增的特性？What's the new feature in css3?
-
-> Answer:
-
 ## [js] 写一个方法去掉字符串中的空格. Write a function to remove the space in stirng
 > Answer:
 ```javascript
